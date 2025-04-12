@@ -3175,9 +3175,6 @@ packages:
   workbox-expiration@7.3.0:
     resolution: {integrity: sha512-lpnSSLp2BM+K6bgFCWc5bS1LR5pAwDWbcKt1iL87/eTSJRdLdAwGQznZE+1czLgn/X05YChsrEegTNxjM067vQ==}
 
-  workbox-google-analytics@7.3.0:
-    resolution: {integrity: sha512-ii/tSfFdhjLHZ2BrYgFNTrb/yk04pw2hasgbM70jpZfLk0vdJAXgaiMAWsoE+wfJDNWoZmBYY0hMVI0v5wWDbg==}
-
   workbox-navigation-preload@7.3.0:
     resolution: {integrity: sha512-fTJzogmFaTv4bShZ6aA7Bfj4Cewaq5rp30qcxl2iYM45YD79rKIhvzNHiFj1P+u5ZZldroqhASXwwoyusnr2cg==}
 
@@ -6608,7 +6605,6 @@ snapshots:
       workbox-cacheable-response: 7.3.0
       workbox-core: 7.3.0
       workbox-expiration: 7.3.0
-      workbox-google-analytics: 7.3.0
       workbox-navigation-preload: 7.3.0
       workbox-precaching: 7.3.0
       workbox-range-requests: 7.3.0
@@ -6632,13 +6628,6 @@ snapshots:
     dependencies:
       idb: 7.1.1
       workbox-core: 7.3.0
-
-  workbox-google-analytics@7.3.0:
-    dependencies:
-      workbox-background-sync: 7.3.0
-      workbox-core: 7.3.0
-      workbox-routing: 7.3.0
-      workbox-strategies: 7.3.0
 
   workbox-navigation-preload@7.3.0:
     dependencies:

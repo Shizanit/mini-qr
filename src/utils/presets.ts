@@ -247,7 +247,7 @@ export const vueJsPreset: Preset = {
 export const defaultPreset: Preset = {
   ...defaultPresetOptions,
   name: 'Default (lyqht)',
-  data: 'https://github.com/lyqht',
+  data: 'https://qr.securetown.net/',
   image: PLACEHOLDER_IMAGE_URL,
   dotsOptions: {
     color: '#abcbca',
